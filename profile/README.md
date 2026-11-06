@@ -27,6 +27,7 @@ It ingests documents, audio and video, so a hearing recording becomes searchable
 | [PBL-AIMIE-Service](https://github.com/ProBonoLaw/PBL-AIMIE-Service) | AI moderation and intuitive engagement | Python |
 | [PBL-AIMIE-Operations](https://github.com/ProBonoLaw/PBL-AIMIE-Operations) | Document generation workers, Markdown converter | C# |
 | [PBL-Account-Operations](https://github.com/ProBonoLaw/PBL-Account-Operations) | Account services and tests | C# |
+| [PBL-Billing-Operations](https://github.com/ProBonoLaw/PBL-Billing-Operations) | Billing operations service | C# |
 | [PBL-Email-Operations](https://github.com/ProBonoLaw/PBL-Email-Operations) | Email workers and notification clients | C# |
 | [pbl-infrastructure](https://github.com/ProBonoLaw/pbl-infrastructure) | Pulumi infrastructure for the whole platform | TypeScript |
 
